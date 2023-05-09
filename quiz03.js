@@ -15,7 +15,7 @@ const quizData = [
         question: "Příjmení herce vpravo na obrázku?",
         image: "images/pic43.png",
         answer: "Brodský",
-        details: "Film: Zítra vstanu a opařím se čajem (1956)."
+        details: "Film: Zítra vstanu a opařím se čajem (1977)."
     },
     {
         question: "Vy nás ale zásobujete, pane...?",
