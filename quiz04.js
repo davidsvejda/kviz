@@ -24,7 +24,7 @@ const quizData = [
         details: "Seriál: Chalupáři (1975)."
     },
     {
-        question: "Kdo hraje milence Fuchsové? Celé jméno.",
+        question: "Kdo hraje milence paní Míly? Celé jméno.",
         image: "images/pic65.jpg",
         answer: "Jiří Adamíra",
         details: "Seriál: Chalupáři (1975)."
